@@ -6,13 +6,15 @@ Knowledge graph schema design using Arrows.app
 
 Arrows.app is a free, cloud-based tool developed by Neo4j to aid in design of a semantic graph database schema. It is an intuitive tool meant to support domain experts to work with schemas firsthand. By domain experts, I mean experts with domain knowledge of their respective scientific or business areas, not database experts.
 
-In order to work with Arrows.app you need to do two things first:
+Here are three steps to get setup and working with Arrows.app:
 
-1.  Sign in or [create a Google account](#Create-a-Google-account) for work**
+1.  Sign in or [create a Google account](#Create-a-Google-account) for work*
 
 2.  [Authorize Arrows.app](#Connect-Arrows.app-to-your-Google-account) to access your Google account
 
-** NOTE: Even if you already have a personal Gmail account, it may be useful to create a new one for work. Google allows you to create many accounts, and each comes with more storage space, inbox, and settings for apps across the Google Cloud Suite. If you use Google Chrome browser, you can add the account as profile for easy access later.
+3. Take 5 minutes to [learn more about Arrows.app](#Getting-started-with-Arrows.app)
+
+	*NOTE: Even if you already have a personal Gmail account, it may be useful to create a new one for work. Google allows you to create many accounts, and each comes with more storage space, inbox, and settings for apps across the Google Cloud Suite. If you use Google Chrome browser, you can add the account as profile for easy access later.
 
 ## Create a Google account
 
@@ -44,7 +46,7 @@ Once complete, you should be able to load, save, and share Arrows.app schemas us
 
 If something goes wrong, please let me know! Otherwise, feel free to follow some additional instructions in the following section.
 
-## More about Arrows.app
+## Getting started with Arrows.app
 
 Arrows.app is part of Neo4j's toolkit, so it is designed minimally with some especially useful features. For example, it can automatically generate code templates based on the diagrams we design together visually. I am very curious to hear feedback on use from the rest of you.
 

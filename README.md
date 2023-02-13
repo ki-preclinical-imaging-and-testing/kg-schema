@@ -4,7 +4,7 @@ Knowledge graph schema design using Arrows.app
 
 ## Introduction
 
-Arrows.app is a free, cloud-based tool developed by Neo4j to aid in design of a semantic graph database schema. It is an intuitive tool meant to support domain experts to work with schemas firsthand. By domain experts, I mean experts with domain knowledge of their respective scientific or business areas, not database experts.
+Arrows.app is a free, cloud-based tool developed by Neo4j to aid in design of schema for semantic graph databases. It is an intuitive tool meant to support domain experts to work with schemas firsthand. By domain experts, I mean experts with domain knowledge of their respective scientific or business areas, not database experts.
 
 Here are three steps to get setup and working with Arrows.app:
 

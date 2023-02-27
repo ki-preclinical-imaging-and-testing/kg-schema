@@ -12,7 +12,7 @@ Here are three steps to get setup and working with Arrows.app:
 
 2.  [Authorize Arrows.app](#Connect-Arrowsapp-to-your-Google-account) to access your Google account
 
-3. Take 5 minutes to [learn more about Arrowsapp](#Getting-started-with-Arrows.app)
+3. Take 5 minutes to [learn more about Arrowsapp](#getting-started-with-arrowsapp)
 
 	*NOTE: Even if you already have a personal Gmail account, it may be useful to create a new one for work. Google allows you to create many accounts, and each comes with more storage space, inbox, and settings for apps across the Google Cloud Suite. If you use Google Chrome browser, you can add the account as profile for easy access later.
 
